@@ -96,7 +96,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/Guide/install',
+              to: '/docs/Prerequisites',
             },
           ],
         },
