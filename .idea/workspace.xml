@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd2d92ea-b78d-4e06-a291-6ea78d902907" name="Changes" comment="Clean Docusaurus Instance">
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+    <list default="true" id="4cc5da38-e21b-449f-95b1-716c99a24a93" name="Changes" comment="Hopefully fixed compile error again again again again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
     </list>
@@ -17,94 +16,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Chanoler"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:ShopR-vr/ShopRSdkDocs.git",
-    "accountId": "0044b987-0df7-4bcf-9d03-ce61df4996b6"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="2llphhe1CMfraQesaZR0opi4MnH" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "ts.external.directory.path": "C:\\ShopRProjects\\ShopRDocs\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+    "ts.external.directory.path": "C:\\ShopRProjects\\ShopRDocs\\node_modules\\typescript\\lib"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="fd2d92ea-b78d-4e06-a291-6ea78d902907" name="Changes" comment="" />
-      <created>1725764638839</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1725764638839</updated>
-      <workItem from="1725764640264" duration="623000" />
-    </task>
-    <task id="LOCAL-00001" summary="Clean Docusaurus Instance">
+    <task id="LOCAL-00001" summary="Replace homepage and colors, add existing pages back">
       <option name="closed" value="true" />
-      <created>1725764670131</created>
+      <created>1725771221701</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1725764670131</updated>
+      <updated>1725771221701</updated>
     </task>
-    <task id="LOCAL-00002" summary="Clean Docusaurus Instance">
+    <task id="LOCAL-00002" summary="Hopefully fixed compile error">
       <option name="closed" value="true" />
-      <created>1725764691255</created>
+      <created>1725771468095</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1725764691255</updated>
+      <updated>1725771468095</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hopefully fixed compile error again">
+      <option name="closed" value="true" />
+      <created>1725772047070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725772047070</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hopefully fixed compile error again again">
+      <option name="closed" value="true" />
+      <created>1725772610306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725772610306</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hopefully fixed compile error again again again">
+      <option name="closed" value="true" />
+      <created>1725773284692</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725773284692</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hopefully fixed compile error again again again again">
+      <option name="closed" value="true" />
+      <created>1725773510274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725773510274</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
-    <MESSAGE value="Clean Docusaurus Instance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean Docusaurus Instance" />
+    <MESSAGE value="Replace homepage and colors" />
+    <MESSAGE value="Replace homepage and colors, add existing pages back" />
+    <MESSAGE value="Hopefully fixed compile error" />
+    <MESSAGE value="Hopefully fixed compile error again" />
+    <MESSAGE value="Hopefully fixed compile error again again" />
+    <MESSAGE value="Hopefully fixed compile error again again again" />
+    <MESSAGE value="Hopefully fixed compile error again again again again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopefully fixed compile error again again again again" />
   </component>
 </project>
