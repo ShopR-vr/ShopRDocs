@@ -4,7 +4,7 @@ sidebar_position: 20
 ---
 
 ### Overview
-The `Export2` is the most important part of the ShopR SDK. This window allows you to export and manage your shops and scenes within the ShopR SDK.
+The `Export2` window is the most important part of the ShopR SDK. This window allows you to export and manage your shops and scenes within the ShopR SDK.
 
 ## How to use
 ### First time setup
