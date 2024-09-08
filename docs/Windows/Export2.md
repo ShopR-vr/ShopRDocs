@@ -15,7 +15,7 @@ The `Export2` window is the most important part of the ShopR SDK. This window al
 
 ### Uploading your scene
 1. Ensure your scene has the required components:
-   - [ShopRSceneDiscriptor](/docs/Components%20and%20Windows/ShopRSceneDiscriptor.md)
+   - [ShopRSceneDiscriptor](/docs/Components/ShopRSceneDiscriptor.md)
 2. Open the `Export2` window by going to `ShopR SDK` > `Export2` in the Unity Editor.
 3. Select the shop you want to upload your scene to.
 4. Select the scene you want to upload from the list of scenes in that shop.
