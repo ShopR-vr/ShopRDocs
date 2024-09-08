@@ -5,13 +5,12 @@ sidebar_position: 10
 
 ## What does this do?
 
-This component tells ShopR to treat this model as a product. This will allow users to interact with the product and add it to their cart.
-
-## How do I do this?
-
+This component tells ShopR to treat this model as a sellable product. This will allow users to add it to their cart.
 :::warning
 Your product must exist in the ShopR backend for this process to work. Please reach out to the ShopR Team to do this if you have not already
 :::
+
+## How do I do this?
 
 1. Add your product model to the scene.
 

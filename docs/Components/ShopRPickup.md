@@ -3,4 +3,7 @@ title: ShopRPickup
 sidebar_position: 20
 ---
 
-# Uploading your scene
+## What does this do?
+
+Adding this component to an object in your scene will allow the user to pick it up and move it around.
+
