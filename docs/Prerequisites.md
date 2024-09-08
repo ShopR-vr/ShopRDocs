@@ -13,7 +13,7 @@ sidebar_position: 10
 
 - [Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
 
-- **Unity 2022.3.12f1** from the [Unity Download Archive](.https://unity.com/releases/editor/archive)
+- **Unity 2022.3.12f1** from the [Unity Download Archive](https://unity.com/releases/editor/archive)
 
 - [Git](https://git-scm.com/downloads)
 
