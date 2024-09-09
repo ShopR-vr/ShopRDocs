@@ -1,6 +1,6 @@
 {
   "label": "Editor Windows",
-  "position": 15,
+  "position": 25,
   "link": {
     "type": "generated-index",
     "description": "Using the tools and windows in the editor."
