@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd2d92ea-b78d-4e06-a291-6ea78d902907" name="Changes" comment="Clean Docusaurus Instance">
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Guides/Making a product/ImportingProductModel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Guides/Making a product/MakingAProductPop.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Components/ShopRMoveEffect.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Components/ShopRMoveEffect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Components/ShopRProduct.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Components/ShopRProduct.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Components/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Components/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Components/tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Guide/Export2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Guide/Unity Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Guide/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Guide/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Guide/install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Prerequisites.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Prerequisites.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,45 +27,68 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Chanoler"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chanoler&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:ShopR-vr/ShopRSdkDocs.git",
-    "accountId": "0044b987-0df7-4bcf-9d03-ce61df4996b6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ShopR-vr/ShopRSdkDocs.git&quot;,
+    &quot;accountId&quot;: &quot;0044b987-0df7-4bcf-9d03-ce61df4996b6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2llphhe1CMfraQesaZR0opi4MnH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "ts.external.directory.path": "C:\\ShopRProjects\\ShopRDocs\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.ShopRSdkDocs.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/Projects/ShopRSdkDocs/docs/Guides&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;P:\\Projects\\ShopRSdkDocs\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\Projects\ShopRSdkDocs\docs\Guides" />
+      <recent name="P:\Projects\ShopRSdkDocs\docs\Guide\img" />
+      <recent name="P:\Projects\ShopRSdkDocs\docs\Windows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Projects\ShopRSdkDocs\docs\Guides\Making a product" />
+      <recent name="P:\Projects\ShopRSdkDocs\docs\Guides\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ShopRSdkDocs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3000/ShopRSdkDocs/">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ShopRSdkDocs" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+        <option value="bundled-js-predefined-d6986cc7102b-b86d7ee83eed-JavaScript-WS-243.18137.24" />
       </set>
     </attachedChunks>
   </component>
@@ -68,6 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1725764638839</updated>
       <workItem from="1725764640264" duration="623000" />
+      <workItem from="1728461266282" duration="7329000" />
+      <workItem from="1728497893455" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="Clean Docusaurus Instance">
       <option name="closed" value="true" />

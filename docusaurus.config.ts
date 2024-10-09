@@ -7,25 +7,22 @@ const config: Config = {
   tagline: 'Learn how to use the ShopR SDK',
   favicon: 'img/shopr.webp',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  // Set the production URL of your site here
+  url: 'https://www.shoprvr.com',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/ShopRSdkDocs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ShopR-vr', // Usually your GitHub org/user name.
-  projectName: 'ShopRSdkDocs', // Usually your repo name.
+  organizationName: 'ShopR-vr', // Your GitHub org/user name.
+  projectName: 'ShopRSdkDocs', // Your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  // Internationalization settings
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -37,10 +34,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+              'https://github.com/ShopR-vr/ShopRSdkDocs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -48,11 +43,9 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+              'https://github.com/ShopR-vr/ShopRSdkDocs/tree/main/',
+          // Enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -65,8 +58,8 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // Social card image for your project
+    image: 'img/shopr-social-card.jpg',
     navbar: {
       title: 'ShopR SDK Documentation',
       logo: {
@@ -78,28 +71,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'SDK Docs',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
       ],
     },
     footer: {
       style: 'dark',
       links: [
-        {
-          // title: 'Docs',
-          // items: [
-          //   {
-          //     label: 'Tutorial',
-          //     to: '/docs/Prerequisites',
-          //   },
-          // ],
-        },
         {
           title: 'Community',
           items: [
@@ -109,21 +87,8 @@ const config: Config = {
             },
           ],
         },
-        {
-          // title: 'More',
-          // items: [
-          //   {
-          //     label: 'Blog',
-          //     to: '/blog',
-          //   },
-          //   {
-          //     label: 'GitHub',
-          //     href: 'https://github.com/facebook/docusaurus',
-          //   },
-          // ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ShopR, Inc. Built with Docusaurus. 💗`,
     },
     prism: {
       theme: prismThemes.github,

@@ -36,7 +36,7 @@ Your product must exist in the ShopR backend for this process to work. Please re
 The ShopR Product component has a few tools to help you manage products in your showroom in bulk to speed up the process of configuring this on all of your products.
 At the bottom of the component you will see a foldout called "Tools" with a few options.
 
-![img.png](tools.png)
+![img.png](../Guides/img/tools.png)
 
 - **Set All Products to This Merchant**: This will set all products in the scene to the merchant you have selected in this component. Typically every item in a showroom belongs to the same merchant. 
 - **Set All Products with Same Mesh to This Product**: This will set all products in the scene with the same mesh to the product you have selected in this component.
