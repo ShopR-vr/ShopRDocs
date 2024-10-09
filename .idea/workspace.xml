@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd2d92ea-b78d-4e06-a291-6ea78d902907" name="Changes" comment="Clean Docusaurus Instance">
-      <change afterPath="$PROJECT_DIR$/docs/Guides/Making a product/ImportingProductModel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Guides/Making a product/MakingAProductPop.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Components/ShopRMoveEffect.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Components/ShopRMoveEffect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Components/ShopRProduct.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Components/ShopRProduct.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Components/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Components/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Components/tools.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/Export2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/Unity Project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Guide/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Prerequisites.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Prerequisites.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +91,7 @@
       <updated>1725764638839</updated>
       <workItem from="1725764640264" duration="623000" />
       <workItem from="1728461266282" duration="7329000" />
-      <workItem from="1728497893455" duration="2805000" />
+      <workItem from="1728497893455" duration="3521000" />
     </task>
     <task id="LOCAL-00001" summary="Clean Docusaurus Instance">
       <option name="closed" value="true" />
